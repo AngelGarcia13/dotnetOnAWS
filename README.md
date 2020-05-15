@@ -1,10 +1,6 @@
 # dotnet On AWS
 
-Created: May 15, 2020 6:05 PM
-Created By: Angel Garcia
-Last Edited By: Angel Garcia
-Last Edited Time: May 15, 2020 8:46 PM
-Type: Talk
+Notion Doc: https://www.notion.so/dotnet-On-AWS-4b1915d9e755469290ef67e5c0dd2d4d
 
 # First things first.
 
