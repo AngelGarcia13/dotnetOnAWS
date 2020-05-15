@@ -1,5 +1,9 @@
 # dotnet On AWS
 
+Meetup event:https://www.meetup.com/es-ES/AWSUserGroupDominicana/events/270598001/
+
+Presentation: https://www.canva.com/design/DAD8F61KyRw/28PSpuJ85I9cYYlJf7hcOA/view?utm_content=DAD8F61KyRw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
 Notion Doc: https://www.notion.so/dotnet-On-AWS-4b1915d9e755469290ef67e5c0dd2d4d
 
 # First things first.
